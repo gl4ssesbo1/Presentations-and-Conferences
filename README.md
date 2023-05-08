@@ -9,3 +9,5 @@ YouTube Link: https://www.youtube.com/watch?v=VPLPUQTbhFw&t=1293s&ab_channel=Pep
 
 ## From Rain to Rainbows: Making Cloud Pentesting Colorful
 No Youtube Link yet
+
+## Deep Dive into Clouded Waters - An overview in Digital Ocean's Pentest and Security
