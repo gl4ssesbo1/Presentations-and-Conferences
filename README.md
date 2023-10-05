@@ -14,3 +14,4 @@ No Youtube Link yet
 YouTube Link: https://www.youtube.com/watch?v=GpgsFsygwkk
 
 ## ENCRYPTING BUCKETS FOR COMPLIANCE AND RANSOM: HOW ATTACKERS CAN USE KMS TO RANSOMWARE S3 BUCKETS
+YouTube Link: https://www.youtube.com/watch?v=1j1jPDjvnh8
